@@ -42,7 +42,8 @@
 ---
 
 ## 🎓 Certifications  
-- 🐍 **Java** – Udemy
+- <img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/d1472156-4fc9-453c-b800-2173264c52e3" />
+ **Java** – Udemy
 - 🐍 **Python** – Udemy  - 🗄 **SQL** – CodeChef  
 - 🌐 **Full Stack Web Development** – Udemy  
 
