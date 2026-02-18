@@ -1,4 +1,3 @@
-# my-portfolio
 <!-- Profile Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7E9&center=true&vCenter=true&width=600&lines=Hi+There!+👋+I'm+K+Kumar;Computer+Science+Undergraduate;MERN+Stack+%7C+Java+%7C+Python+Developer;Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
